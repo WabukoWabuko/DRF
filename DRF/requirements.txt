@@ -9,3 +9,4 @@ whitenoise
 pymysql
 djangorestframework
 djangorestframework-simplejwt
+django_filter
