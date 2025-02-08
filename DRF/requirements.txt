@@ -10,3 +10,4 @@ pymysql
 djangorestframework
 djangorestframework-simplejwt
 django_filter
+django-redis
